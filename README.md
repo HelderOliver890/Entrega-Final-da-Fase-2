@@ -1,6 +1,6 @@
-# Entrega-Final-da-Fase-2
+Entrega-Final-da-Fase-2
 
-#Tutorial
+Tutorial
 
 1_Instalar:
 pip install fastapi uvicorn
