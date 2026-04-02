@@ -2,11 +2,11 @@
 
 #Tutorial
 
-1. Instalar dependências:
+1_Instalar:
 pip install fastapi uvicorn
 
-2. Rodar API:
+2_API:
 uvicorn main:app --reload
 
-3. Acessar:
+3_Acessar:
 http://127.0.0.1:8000/docs
